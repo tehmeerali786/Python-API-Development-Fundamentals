@@ -1,1 +1,1 @@
-webargs==5.4.0
+webargs==5.5.3
